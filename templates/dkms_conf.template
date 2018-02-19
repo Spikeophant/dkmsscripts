@@ -1,0 +1,2 @@
+POST_BUILD=../../../../../../root/dkms/sign-kernel.sh
+
